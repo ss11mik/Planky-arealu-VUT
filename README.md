@@ -5,8 +5,8 @@ Jelikož kromě fakulty VUT kromě Fakulty informačních technologií nemají n
 
 Pokud se někdy dostanu i do jiných areálů, zveřejním i jejich plánky.
 
-[Fakulta informačních technologií](FIT)
+[Fakulta informačních technologií (FIT)](FIT)
 
-[Fakulta elektrotechniky a komunikačních technologií ](FEKT)
+[Fakulta elektrotechniky a komunikačních technologií (FEKT)](FEKT)
 
-[Fakulta výtvarných umění](FaVU)
+[Fakulta výtvarných umění (FaVU)](FaVU)
