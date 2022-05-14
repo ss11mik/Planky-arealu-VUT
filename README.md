@@ -10,3 +10,7 @@ Pokud se někdy dostanu i do jiných areálů, zveřejním i jejich plánky.
 [Fakulta elektrotechniky a komunikačních technologií (FEKT)](FEKT)
 
 [Fakulta výtvarných umění (FaVU)](FaVU)
+
+
+
+Bonus: plánky areálů kolejí VUT jsou [zde](http://www.kam.vutbr.cz//default.aspx?p=arek).
