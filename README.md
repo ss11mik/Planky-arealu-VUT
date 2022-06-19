@@ -9,6 +9,8 @@ Pokud se někdy dostanu i do jiných areálů, zveřejním i jejich plánky.
 
 [Fakulta elektrotechniky a komunikačních technologií (FEKT)](FEKT)
 
+[Fakulta strojního inženýrství (FSI)](https://www.fme.vutbr.cz/fakulta/planek/A1/01)
+
 [Fakulta výtvarných umění (FaVU)](FaVU)
 
 
