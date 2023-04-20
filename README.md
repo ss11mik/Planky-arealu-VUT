@@ -15,6 +15,10 @@ Pokud se někdy dostanu i do jiných areálů, zveřejním i jejich plánky.
 
 [Fakulta stavební (FAST)](https://www.fce.vutbr.cz/o-fakulte/plany-budov/)
 
+[Fakulta architektury (FA) - virtuální prohlídka](https://domovyonline.cz/www/prohlidky/FA_VUT_S/)
+
+
+
 
 
 Bonus: plánky areálů kolejí VUT jsou [zde](http://www.kam.vutbr.cz//default.aspx?p=arek).
