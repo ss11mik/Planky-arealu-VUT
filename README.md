@@ -11,6 +11,8 @@ Pokud se někdy dostanu i do jiných areálů, zveřejním i jejich plánky.
 
 [Fakulta strojního inženýrství (FSI)](FSI)
 
+[Fakulta chemická (FCH)](FCH)
+
 [Fakulta výtvarných umění (FaVU)](FaVU)
 
 [Fakulta stavební (FAST)](https://www.fce.vutbr.cz/o-fakulte/plany-budov/)
