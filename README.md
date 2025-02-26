@@ -5,24 +5,13 @@ Jelikož kromě fakulty VUT kromě Fakulty informačních technologií nemají n
 
 Pokud se někdy dostanu i do jiných areálů, zveřejním i jejich plánky.
 
-[Fakulta informačních technologií (FIT)](FIT)
-
-[Fakulta elektrotechniky a komunikačních technologií (FEKT)](FEKT)
-
-[Fakulta strojního inženýrství (FSI)](FSI)
-
-[Fakulta chemická (FCH)](FCH)
-
-[Fakulta výtvarných umění (FaVU)](FaVU)
-
-[Fakulta podnikatelská (FP](FP)
-
-[Fakulta stavební (FAST)](https://www.fce.vutbr.cz/o-fakulte/plany-budov/)
-
-[Fakulta architektury (FA) - virtuální prohlídka](https://domovyonline.cz/www/prohlidky/FA_VUT_S/)
-
-
-
-
+- [Fakulta informačních technologií (FIT)](FIT)
+- [Fakulta elektrotechniky a komunikačních technologií (FEKT)](FEKT)
+- [Fakulta strojního inženýrství (FSI)](FSI)
+- [Fakulta chemická (FCH)](FCH)
+- [Fakulta výtvarných umění (FaVU)](FaVU)
+- [Fakulta podnikatelská (FP)](FP)
+- [Fakulta stavební (FAST)](https://www.fce.vutbr.cz/o-fakulte/plany-budov/)
+- [Fakulta architektury (FA) - virtuální prohlídka](https://domovyonline.cz/www/prohlidky/FA_VUT_S/)
 
 Bonus: plánky areálů kolejí VUT jsou [zde](http://www.kam.vutbr.cz//default.aspx?p=arek).
