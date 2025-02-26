@@ -15,6 +15,8 @@ Pokud se někdy dostanu i do jiných areálů, zveřejním i jejich plánky.
 
 [Fakulta výtvarných umění (FaVU)](FaVU)
 
+[Fakulta podnikatelská (FP](FP)
+
 [Fakulta stavební (FAST)](https://www.fce.vutbr.cz/o-fakulte/plany-budov/)
 
 [Fakulta architektury (FA) - virtuální prohlídka](https://domovyonline.cz/www/prohlidky/FA_VUT_S/)
